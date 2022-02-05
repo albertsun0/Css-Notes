@@ -1,0 +1,32 @@
+.txs{font-size: 0.7rem;}
+.ts{font-size: 1rem;}
+.tm{font-size: 1.5rem;}
+.tl{font-size: 2rem;}
+.txl{font-size: 2.5rem;}
+
+.h5{font-size: 0.7rem;}
+.h4{font-size: 1rem;}
+.h3{font-size: 1.5rem;}
+.h2{font-size: 2rem;}
+.h1{font-size: 2.5rem;}
+
+.i{text-indent: 2rem;}
+
+.bold{font-weight: bold;}
+.bo{font-weight: bold;}
+
+.u{text-decoration: underline;}
+.ud{text-decoration: underline dotted;}
+.udr{text-decoration: underline dotted red;}
+.ur{text-decoration: underline red;}
+.uw{text-decoration: wavy underline;}
+.uwr{text-decoration: wavy underline red;}
+
+.strikethrough{text-decoration: line-through;}
+.st{text-decoration: line-through;}
+.strike{text-decoration: line-through;}
+.x{text-decoration: line-through;}
+
+.center{text-align: center;}
+.c{text-align: center;}
+.tc{text-align: center;}
