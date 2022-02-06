@@ -48,7 +48,7 @@ function Preview({text}) {
         }
     }
     
-    return <div className='w-1/2 text-white p-6 flex flex-col overflow-y-auto previewContain'>
+    return <div className='w-1/2 text-white p-6 flex flex-col overflow-y-auto previewContain transition-all duration-1000'>
         {arr.map((val, i) => {
             if(val === ""){
                 return <div key={i} className={`h-4 ${blockStyle}`} style={{marginLeft:indent}} ></div>
